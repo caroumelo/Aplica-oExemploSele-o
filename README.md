@@ -1,1 +1,1 @@
-# Aplica-oExemploSele-o
+Comecei a desenvolver a parte do backendo do projeto utilizando java 11 e spring boot. No geral, a partir do spring, inseri as dependências como o Lombok e h2 e coloquei o arquivo de forma a fazer a listagem das tarefas, ja ficando organizado para o Banco de dados, podendo, posteriormente, fazer a criação, atualização e remoção delas. 
